@@ -11,19 +11,36 @@ Established in 2015, ModeSens is led by a team of industry experts who developed
 - Payment page.
 - The result was an advanced platform that connects information to shoppers seamlessly for a secure and efficient experience — one that is wholly unique to our customers.
 
+# SignUp page
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/signup.png?raw=true" width="90%"/>
+
 # Home Page
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/home_1.png?raw=true" width="90%"/>
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/home_2.png?raw=true" width="90%"/>
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/home_3.png?raw=true" width="90%"/>
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/home_4.png?raw=true" width="90%"/>
 
 # Products Page
-
-# Single Product Page
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/Product_1.png?raw=true" width="90%"/>
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/Product_2.png?raw=true" width="90%"/>
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/Product_3.png?raw=true" width="90%"/>
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/Product_4.png?raw=true" width="90%"/>
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/Product_5.png?raw=true" width="90%"/>
 
 # Community Page
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/community.png?raw=true" width="90%"/>
+
+# Cart Page
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/cart.png?raw=true" width="90%"/>
+
+# Admin Page
+- Admin login id:-admin@login
+- Admin login password:-admin@12345
+<img src="https://github.com/vishal-girhepunje/modesense-clone/blob/main/Readme_img/admin_page.png?raw=true" width="90%"/>
 
 # Execution
 If you want to run our project in your local machine
-
 Follow the given steps:
-
 - Clone our repository https://github.com/vishal-girhepunje/modesense-clone
 - Open our code in VS code
 - Go to the client folder using cd client command
