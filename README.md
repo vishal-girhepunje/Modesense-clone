@@ -47,6 +47,7 @@ Follow the given steps:
 - In the terminal write npm install, it will install all the dependencies for our project
 - Than simply write npm start
 - Congratulations! Now you can navigate to our website
+- Simply click on link:-https://github.com/vishal-girhepunje/modesense-clone
 
 # Tech Stack
 - HTML
