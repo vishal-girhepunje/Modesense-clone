@@ -41,11 +41,9 @@ Established in 2015, ModeSens is led by a team of industry experts who developed
 # Execution
 If you want to run our project in your local machine
 Follow the given steps:
-- Clone our repository 
 - Open our code in VS code
 - Go to the client folder using cd client command
-- In the terminal write npm install, it will install all the dependencies for our project
-- Than simply write npm start
+- Then simply go to index.html and open with live server
 - Congratulations! Now you can navigate to our website
 - Simply click on link:-https://github.com/vishal-girhepunje/modesense-clone
 
